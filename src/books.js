@@ -4,20 +4,20 @@ import img3 from './images/book-3.jpg';
 
 export const books = [
     {
-        Title : 'Simply Jamie: Fast & Simple Food',
-        Author : 'Jamie Oliver',
+        title : 'Simply Jamie: Fast & Simple Food',
+        author : 'Jamie Oliver',
         img : img1,
         id: 1,
     },
     {
-        Title : 'Intermezzo',
-        Author : 'Sally Rooney',
+        title : 'Intermezzo',
+        author : 'Sally Rooney',
         img : img2, 
         id: 2,
     },
     {
-        Title : 'We Solve Murders',
-        Author: 'Richard Osman',
+        title : 'We Solve Murders',
+        author: 'Richard Osman',
         img:img3,
         id: 3
     }
